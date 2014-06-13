@@ -1,6 +1,6 @@
 # upp
 
-Minimal setup for rapid web app devlopment. Includes Browserify (coffee-script with source maps), Stylus & Myth css pre-processors, Jade templates, Browser-sync for live updates across browsers and Gulp to orchestrate the build and watch for file changes to rebuild automatically.
+Minimal setup for rapid web app devlopment. Includes Browserify (coffee-script with source maps), Stylus & Myth css pre-processors, Jade templates, Browser-sync for live updates across browsers and Gulp to orchestrate the build and watch for file changes (automatic rebuilds).
 
 __Disclaimer:__ This setup includes tools that I enjoy using, and is not aimed at the public. I'm not looking for pull requests, but feel free to fork the project if you would like to switch things around.
 
@@ -14,11 +14,7 @@ Clone and install dependencies...
 
 ## Usage
 
-Build css and html, then start server and watch for file changes...
+Build css and html, then start the server and watch for file changes...
 
 1. > gulp
 2. Hack away!
-
-## Disclaimer
-
-This setup includes tools that I enjoy using, and is not aimed at the public. I'm not looking for pull requests, but feel free to fork the project if you would like to switch things around.
