@@ -7,7 +7,7 @@ module.exports = {
       './lib/styles/main.styl'
     ],
     browserify: ['./lib/scripts/app.coffee'],
-    jade: ['./lib/templates/**'],
+    jade: ['./lib/templates/**/*.jade'],
     images: ['./lib/graphics/**']
   },
   dest: {
