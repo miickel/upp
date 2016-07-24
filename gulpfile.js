@@ -4,6 +4,7 @@ var p = require('gulp-load-plugins')();
 var nib = require('nib');
 var rupture = require('rupture');
 var jeet = require('jeet');
+var autoprefixer = require('autoprefixer-stylus');
 
 /**
  * Paths & config
@@ -32,7 +33,8 @@ const CONFIG = {
       use: [
         nib(),
         rupture(),
-        jeet()
+        jeet(),
+        autoprefixer()
       ]
     }
   }

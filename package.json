@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/miickel/upp",
   "devDependencies": {
+    "autoprefixer-stylus": "^0.9.4",
     "browser-sync": "^2.13.0",
     "gulp": "^3.9.1",
     "gulp-load-plugins": "^1.2.4",
