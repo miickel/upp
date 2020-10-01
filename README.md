@@ -1,4 +1,4 @@
-# upp
+#UPP
 
 Minimal setup for rapid web devlopment. Includes Stylus (nib, rupture, jeet, autoprefixer), Pug templates, Browser-sync for live updates across browsers and Gulp to orchestrate the build and watch for file changes (automatic rebuilds).
 
